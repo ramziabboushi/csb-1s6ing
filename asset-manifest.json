@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://ramziabboushi.github.io/csb-1s6ing/static/css/main.311ab07f.chunk.css",
+    "main.js": "https://ramziabboushi.github.io/csb-1s6ing/static/js/main.4fe4f131.chunk.js",
+    "main.js.map": "https://ramziabboushi.github.io/csb-1s6ing/static/js/main.4fe4f131.chunk.js.map",
+    "runtime-main.js": "https://ramziabboushi.github.io/csb-1s6ing/static/js/runtime-main.1993d0d5.js",
+    "runtime-main.js.map": "https://ramziabboushi.github.io/csb-1s6ing/static/js/runtime-main.1993d0d5.js.map",
+    "static/js/2.08eea8ff.chunk.js": "https://ramziabboushi.github.io/csb-1s6ing/static/js/2.08eea8ff.chunk.js",
+    "static/js/2.08eea8ff.chunk.js.map": "https://ramziabboushi.github.io/csb-1s6ing/static/js/2.08eea8ff.chunk.js.map",
+    "index.html": "https://ramziabboushi.github.io/csb-1s6ing/index.html",
+    "static/css/main.311ab07f.chunk.css.map": "https://ramziabboushi.github.io/csb-1s6ing/static/css/main.311ab07f.chunk.css.map",
+    "static/js/2.08eea8ff.chunk.js.LICENSE.txt": "https://ramziabboushi.github.io/csb-1s6ing/static/js/2.08eea8ff.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1993d0d5.js",
+    "static/js/2.08eea8ff.chunk.js",
+    "static/css/main.311ab07f.chunk.css",
+    "static/js/main.4fe4f131.chunk.js"
+  ]
+}
